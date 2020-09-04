@@ -4,7 +4,7 @@ ACI’s Aviation Community Recommended Information Services, known as ACRIS, set
 
 The definition and implementation of standardized business processes and interoperable IT solutions is a vital issue for the global aviation industry, especially as a way to improve efficiency and to increase revenues. This is not only valid within one stakeholder group (e.g., airlines), but also between different groups such as airlines and airports. The ACI Aviation Community Recommended Information Services (ACRIS) Working Group (WG) is focused on providing these solutions.
 
-<center>![](images/ACRISLogo.jpg)</center>
+![](images/ACRISLogo.jpg)
 
 Regardless of their size and structure, airports operate in a complex, changing and challenging environment. Independent from global situations with constantly growing numbers or challenging crises, it’s important to share data with Airports, Airlines and companies. The data sharing considers several use cases like providing public data regarding flights, waiting times or airport facilities as well as nonpublic operational data regarding process or loading information.
 
