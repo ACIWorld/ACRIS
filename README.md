@@ -4,7 +4,7 @@ ACI’s Aviation Community Recommended Information Services, known as ACRIS, set
 
 The definition and implementation of standardized business processes and interoperable IT solutions is a vital issue for the global aviation industry, especially as a way to improve efficiency and to increase revenues. This is not only valid within one stakeholder group (e.g., airlines), but also between different groups such as airlines and airports. The ACI Aviation Community Recommended Information Services (ACRIS) Working Group (WG) is focused on providing these solutions.
 
-![](images/ACRISLogo.jpg)
+![](/images/ACRISLogo.jpg)
 
 Regardless of their size and structure, airports operate in a complex, changing and challenging environment. Independent from global situations with constantly growing numbers or challenging crises, it’s important to share data with Airports, Airlines and companies. The data sharing considers several use cases like providing public data regarding flights, waiting times or airport facilities as well as nonpublic operational data regarding process or loading information.
 
@@ -29,23 +29,23 @@ https://acris.aero
 
 ## Points of Contact
 **Airport Council International (ACI) World**
-Serge Yonke Nguewo
-Senior Manager, Facilitation and IT
-800 rue du Square Victoria Montréal, Québec H4Z 1G8 Canada
-SYonkeNguewo@aci.aero
+Serge Yonke Nguewo  
+Senior Manager, Facilitation and IT  
+800 rue du Square Victoria Montréal, Québec H4Z 1G8 Canada  
+SYonkeNguewo@aci.aero  
 
 **ACI ACRIS WG Chair**
-Ian Law
-Chief Information Officer at SFO
-San Francisco International Airport (SFO)
-P.O. Box 8097
-San Francisco California 94128
-Ian.Law@flysfo.com
+Ian Law  
+Chief Information Officer at SFO  
+San Francisco International Airport (SFO)  
+P.O. Box 8097  
+San Francisco California 94128  
+Ian.Law@flysfo.com  
 
 **ACI ACRIS WG Vice Chair**
-Martin Rogal
-Head of Development Technologies
-Flughafen München GmbH
-P.O. Box 23 17 55
-85326 Munich-Airport
+Martin Rogal  
+Head of Development Technologies  
+Flughafen München GmbH  
+P.O. Box 23 17 55  
+85326 Munich-Airport  
 Martin.Rogal@munich-airport.de
